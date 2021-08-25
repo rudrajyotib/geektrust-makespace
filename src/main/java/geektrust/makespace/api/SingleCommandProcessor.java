@@ -1,10 +1,10 @@
-package geektrust.marketplace.api;
+package geektrust.makespace.api;
 
-import geektrust.marketplace.command.BookingManager;
+import geektrust.makespace.command.BookingManager;
 
 import java.util.Arrays;
 
-import static geektrust.marketplace.command.BookingManager.INCORRECT_INPUT;
+import static geektrust.makespace.command.BookingManager.INCORRECT_INPUT;
 
 public class SingleCommandProcessor {
 

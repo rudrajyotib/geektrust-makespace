@@ -1,6 +1,6 @@
-package geektrust.marketplace;
+package geektrust.makespace;
 
-import geektrust.marketplace.api.FileBasedSequentialCommandProcessor;
+import geektrust.makespace.api.FileBasedSequentialCommandProcessor;
 
 import java.io.IOException;
 

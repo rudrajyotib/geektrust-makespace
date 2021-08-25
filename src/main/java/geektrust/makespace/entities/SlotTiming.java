@@ -1,6 +1,6 @@
-package geektrust.marketplace.entities;
+package geektrust.makespace.entities;
 
-import geektrust.marketplace.exceptions.InvalidSlotException;
+import geektrust.makespace.exceptions.InvalidSlotException;
 
 import java.util.HashMap;
 import java.util.Map;

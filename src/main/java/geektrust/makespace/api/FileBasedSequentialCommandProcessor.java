@@ -1,4 +1,4 @@
-package geektrust.marketplace.api;
+package geektrust.makespace.api;
 
 import java.io.File;
 import java.io.IOException;

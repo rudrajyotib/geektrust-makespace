@@ -1,6 +1,6 @@
-package geektrust.marketplace.entities;
+package geektrust.makespace.entities;
 
-import geektrust.marketplace.exceptions.InvalidSlotException;
+import geektrust.makespace.exceptions.InvalidSlotException;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

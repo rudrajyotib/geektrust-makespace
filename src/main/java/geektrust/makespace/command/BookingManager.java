@@ -1,8 +1,8 @@
-package geektrust.marketplace.command;
+package geektrust.makespace.command;
 
-import geektrust.marketplace.entities.MeetingRoom;
-import geektrust.marketplace.entities.SlotTiming;
-import geektrust.marketplace.exceptions.InvalidSlotException;
+import geektrust.makespace.entities.MeetingRoom;
+import geektrust.makespace.entities.SlotTiming;
+import geektrust.makespace.exceptions.InvalidSlotException;
 
 import java.util.ArrayList;
 import java.util.List;

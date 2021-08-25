@@ -1,4 +1,4 @@
-package geektrust.marketplace.exceptions;
+package geektrust.makespace.exceptions;
 
 public class InvalidSlotException extends Exception {
 

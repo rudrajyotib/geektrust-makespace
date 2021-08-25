@@ -1,4 +1,4 @@
-package geektrust.marketplace.entities;
+package geektrust.makespace.entities;
 
 public class MeetingRoom {
 

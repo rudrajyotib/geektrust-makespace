@@ -1,4 +1,4 @@
-package geektrust.marketplace.api;
+package geektrust.makespace.api;
 
 import org.junit.jupiter.api.Test;
 

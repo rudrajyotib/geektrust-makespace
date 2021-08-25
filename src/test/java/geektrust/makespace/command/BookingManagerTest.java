@@ -1,4 +1,4 @@
-package geektrust.marketplace.command;
+package geektrust.makespace.command;
 
 import org.junit.jupiter.api.Test;
 

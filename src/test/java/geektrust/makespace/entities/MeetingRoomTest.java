@@ -1,4 +1,4 @@
-package geektrust.marketplace.entities;
+package geektrust.makespace.entities;
 
 import org.junit.jupiter.api.Test;
 
